@@ -105,4 +105,4 @@ Sl NO TIMESTAMP                   PROTOCOL        MESSAGE                       
 101   2019-08-15 18:34:18.200367  -               -                                     Ignore RACH enabled                                                                                                                                                
 102   2019-08-15 18:34:18.249284  [RRC]DL-DCCH    rrcConnectionRelease                 DL-DCCH,-                                                                                                                                                           
 -     2019-08-15 18:34:27.376000  -               -                                    Test ended with result: PASS                                                                                                                                        
-
+New line added here
